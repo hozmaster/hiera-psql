@@ -1,5 +1,12 @@
 [![Build Status](https://travis-ci.org/tioteath/hiera-psql.svg?branch=master)](https://travis-ci.org/tioteath/hiera-psql)
 
+Debian packing:
+```
+sudo apt install gem2deb
+cd folder
+dpkg-buildpackage -rfakeroot
+```
+
 Database schema
 ===============
 
