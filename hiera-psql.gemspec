@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'hiera', '~> 1.3'
   s.add_dependency 'pg', '~> 0.17'
-  s.add_dependency 'json', '~> 1.8'
+  s.add_dependency 'json', '~> 2.1'
 
   s.add_development_dependency 'rspec', '~> 3.0'
   s.add_development_dependency 'rake', '~> 10.3'
